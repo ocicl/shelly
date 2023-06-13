@@ -1,0 +1,10 @@
+* shelly
+
+[OBSOLETE] Use Roswell instead.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/shelly.git   |
+| commit  | 209f979  |
+| systems | shelly |
+|---------+-------------------------------------------|
+
